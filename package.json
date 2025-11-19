@@ -1,0 +1,24 @@
+{
+  "name": "gitbook-plugin-image-preview",
+  "version": "1.0.2",
+  "description": "A GitBook plugin that enables image preview with zoom, drag, and a floating close button.",
+  "main": "index.js",
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "image",
+    "preview",
+    "zoom",
+    "drag",
+    "popup"
+  ],
+  "author": "Wang Wenjie",
+  "license": "MIT",
+  "engines": {
+    "gitbook": ">=3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:W-Jacky/gitbook-plugin-image-preview.git"
+  }
+}
